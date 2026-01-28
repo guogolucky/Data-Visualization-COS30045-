@@ -1,16 +1,38 @@
 /* Style sheet */
 /* Author: James Stone & Guo Tong Tsen */
 /* Description: css style sheet */
+/* Date Modified: HELLLLO /01/2026 */
+
+/* Colour pallet
+DCEDFF
+94B0DA
+8F91A2
+505A5B
+343F3E */
 body{
     align-items: center;
     text-align: center;
     flex: auto;
+    background-color: #343f34;
+}
+*{
+    color: #DCEDFF;   
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+   
 }
 
 .containerBox{
     width: auto;
     text-align: center;
     justify-content: center;
+}
+.inline2 {
+    width:40%;
+    height: fit-content;
+    display: inline-block;
+    text-align: justify;
+    align-items: center;
 }
 .inline3{
     width: 30%;
@@ -31,8 +53,8 @@ body{
 .roundedButton{
     width:80%;
     
-    background-color: lightgrey;
-    border: 5px soild black;    
+    background-color: #505a5b;
+    border: 2px solid #94B0DA;
     border-radius: 20px;
     text-decoration: none;
     padding:15px 32px;
@@ -46,6 +68,16 @@ body{
     /* add hover effects prettify it */
 }
 
+.btnControl{
+    width: 90%;
+    padding: 15px 32px;
+    border: 2px solid #94B0DA;
+    background-color: #505a5b;
+    border-radius: 20px;
+    cursor: pointer;
+    margin: 4px 2px;
+}
+
 /* Graphs CSS */
 .btnCheckbox {
     width: 70%;
@@ -55,8 +87,8 @@ body{
     text-decoration: none;
 
     padding: 15px 32px;
-    border: 5px soild black;
-    background-color: lightgrey;    
+    border: 1px solid #94B0DA;
+    background-color: #505a5b;    
     border-radius: 20px;
     cursor: pointer;
     margin: 4px 2px;
