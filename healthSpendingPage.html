@@ -6,18 +6,21 @@
     <meta name="description" content="Data Visualisation, Index Page, Home page" />
     <meta name="keywords" content="HTML, CSS, D3" />
     <meta name="author" content="James Stone, Guo Tong Tsen" />
-    <link rel="stylesheet" href="style.css">
-    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <link rel="stylesheet" href="style.css">    
     <title>Health Spending Over Life Expectancy</title>
 
-    <script src="https://d3js.org/d3.v7.min.js"></script>
-    <script src="backscript.js" defer></script>
+    <script src="https://d3js.org/d3.v7.min.js"></script>    
+    <script src="treemapHealthSpendingOverLifeExpectancy.js" defer ></script>
+    <script>console.log("treemap JS loaded");
+        console.log("D3 version:", d3.version);</script>
 </head>
 
 <body>
     <h1>Health Spending Over Life Expectancy (OECD Enconmic Countries Only)</h1>
-  
-    <P style="font-size: 90px;">PUT THE MAP GRAPH HERE</P>
+    
+    <div class="graphScriptContainer">
+        <div id="chart"></div>
+    </div>
 
 
     <!-- SIMPLY ADD MORE CLASS LISTS -->
