@@ -34,9 +34,6 @@ nav ul li a:hover {
     background-color: lightblue;
 }
 
-/* ===========================
-   Existing Styles
-   =========================== */
 #chart svg {
     border: 2px solid black;
     background-color: skyblue;
