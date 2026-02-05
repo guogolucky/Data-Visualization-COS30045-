@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="description" content="Data Visualisation"/>
+    <meta name="keywords" content="HTML, CSS, D3"/>
+    <meta name="author" content="GT"/>
+    <link rel="stylesheet" href="first visual.css">
+    <title>D3 Chart</title>
+
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="first visual.js" defer></script>
+</head>
+
+<body>
+
+<nav>
+    <h2><i>Health Dashboard</i></h2>
+    <ul>
+        <li><a href="hi">Home</a></li>
+        <li><a href="hi">Main</a></li>
+        <li><a href="hi">Sub</a></li>
+    </ul>
+</nav>
+
+<h1>Total Health Spending (%) per country</h1>
+
+<ul>
+<p>How to use:</p>
+<li>Use Year Slider to navigate throughout the years</li>
+<li>Use Filtering Dropdown option to see a specific country data in detailed format, press <b>"reset"</b> to clear</li>
+<li>Use mouse to zoom in and out and slide through the Geo Map to see more</li>
+<li>Press color-blind button to see Geo Map in color blind mode, press again to return default mode</li>
+<li>The Color Legend Indicator present indicates the approximate (%) of the dataset and it also represent for each country when filtering is applied</li>
+</ul>
+
+<br>
+
+<div id="layout">
+    <div id="chart"></div>
+
+    <div id="controls">
+        <div id="slider-container">
+            <label>
+                <p><strong>Year Slider</strong></p>
+            <label>
+                Year: <span id="sliderYear">2023</span>
+            </label>
+
+            <input type="range" id="yearSlider" min="2015" max="2023" step="1" value="2023">
+        </div>
+        
+        <br>
+
+        <div id="country-filter">
+            <label for="countrySelect"><strong>Filter Country</strong></label><br>
+            <select id="countrySelect"></select>
+            <button id="clearCountry">Reset</button>
+        </div>
+
+        <br><br>
+
+        <div>
+            <label for="countrySelect"><strong>Color Blind Option</strong></label><br>
+            <button id="colorBlindModeButton">Color Blind</button>
+        </div>
+
+        <br>
+
+        <div id="colorLegend">
+            <strong>Health Expenditure (%) Indicator</strong>
+        </div>
+
+    </div>
+</div>
+
+</body>
+</html>
