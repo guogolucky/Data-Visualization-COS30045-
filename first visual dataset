@@ -1,0 +1,451 @@
+iso,country,year,health_exp,life_exp
+AUS,Australia,2015,10.1,82.4
+AUS,Australia,2016,10.1,82.4
+AUS,Australia,2017,10.1,82.5
+AUS,Australia,2018,10.1,82.8
+AUS,Australia,2019,10.3,82.9
+AUS,Australia,2020,10.7,83.2
+AUS,Australia,2021,10.5,83.3
+AUS,Australia,2022,9.9,83.2
+AUS,Australia,2023,9.9,83
+AUT,Austria,2015,10.5,81.3
+AUT,Austria,2016,10.5,81.8
+AUT,Austria,2017,10.6,81.7
+AUT,Austria,2018,10.5,81.8
+AUT,Austria,2019,10.6,82
+AUT,Austria,2020,11.4,81.3
+AUT,Austria,2021,12.2,81.3
+AUT,Austria,2022,11.2,81.4
+AUT,Austria,2023,11.2,81.9
+BEL,Belgium,2015,10.9,81.1
+BEL,Belgium,2016,10.9,81.5
+BEL,Belgium,2017,10.9,81.6
+BEL,Belgium,2018,11,81.7
+BEL,Belgium,2019,10.9,82.1
+BEL,Belgium,2020,11.5,80.8
+BEL,Belgium,2021,11.3,81.9
+BEL,Belgium,2022,10.7,81.8
+BEL,Belgium,2023,10.8,82.5
+CAN,Canada,2015,10.8,81.9
+CAN,Canada,2016,11.1,82
+CAN,Canada,2017,10.9,81.9
+CAN,Canada,2018,10.9,81.9
+CAN,Canada,2019,11,82.2
+CAN,Canada,2020,13,81.6
+CAN,Canada,2021,12.4,81.6
+CAN,Canada,2022,11.1,81.3
+CAN,Canada,2023,11.2,81.7
+CHL,Chile,2015,8.4,79.8
+CHL,Chile,2016,8.6,80
+CHL,Chile,2017,9.1,80.2
+CHL,Chile,2018,9.2,80.4
+CHL,Chile,2019,9.3,80.6
+CHL,Chile,2020,9.7,80.8
+CHL,Chile,2021,9.7,81
+CHL,Chile,2022,10,81.2
+CHL,Chile,2023,10.2,81.4
+COL,Colombia,2015,7.5,75.4
+COL,Colombia,2016,7.5,75.7
+COL,Colombia,2017,7.7,75.9
+COL,Colombia,2018,7.7,76.5
+COL,Colombia,2019,7.8,76.6
+COL,Colombia,2020,8.7,76.7
+COL,Colombia,2021,9.1,76.8
+COL,Colombia,2022,7.6,76.9
+COL,Colombia,2023,8.2,77.2
+CRI,Costa Rica,2015,7.6,79.9
+CRI,Costa Rica,2016,7.3,80
+CRI,Costa Rica,2017,7,80.2
+CRI,Costa Rica,2018,7.3,80.3
+CRI,Costa Rica,2019,7.2,80.5
+CRI,Costa Rica,2020,7.8,80.6
+CRI,Costa Rica,2021,7.6,80.8
+CRI,Costa Rica,2022,7.2,80.9
+CRI,Costa Rica,2023,6.9,81
+CZE,Czechia,2015,7.3,78.7
+CZE,Czechia,2016,7.3,79.1
+CZE,Czechia,2017,7.2,79.1
+CZE,Czechia,2018,7.4,79.1
+CZE,Czechia,2019,7.5,79.3
+CZE,Czechia,2020,9,78.3
+CZE,Czechia,2021,9.2,77.2
+CZE,Czechia,2022,8.5,79
+CZE,Czechia,2023,8.4,79.9
+DNK,Denmark,2015,10.4,80.8
+DNK,Denmark,2016,10.3,80.9
+DNK,Denmark,2017,10.1,81.1
+DNK,Denmark,2018,10.1,81
+DNK,Denmark,2019,10.2,81.5
+DNK,Denmark,2020,10.7,81.6
+DNK,Denmark,2021,10.7,81.5
+DNK,Denmark,2022,9.5,81.3
+DNK,Denmark,2023,9.5,81.8
+EST,Estonia,2015,6.5,78
+EST,Estonia,2016,6.6,78
+EST,Estonia,2017,6.5,78.4
+EST,Estonia,2018,6.6,78.5
+EST,Estonia,2019,6.6,79
+EST,Estonia,2020,7.5,78.9
+EST,Estonia,2021,7.5,77.2
+EST,Estonia,2022,6.9,78.1
+EST,Estonia,2023,7.5,79.1
+FIN,Finland,2015,9.7,81.6
+FIN,Finland,2016,9.5,81.5
+FIN,Finland,2017,9.2,81.7
+FIN,Finland,2018,9.1,81.8
+FIN,Finland,2019,9.2,82.1
+FIN,Finland,2020,9.7,82
+FIN,Finland,2021,9.9,81.9
+FIN,Finland,2022,9.7,81.2
+FIN,Finland,2023,10.5,81.6
+FRA,France,2015,11.5,82.4
+FRA,France,2016,11.6,82.7
+FRA,France,2017,11.4,82.7
+FRA,France,2018,11.3,82.8
+FRA,France,2019,11.2,83
+FRA,France,2020,12.1,82.3
+FRA,France,2021,12.2,82.4
+FRA,France,2022,11.8,82.3
+FRA,France,2023,11.5,83
+DEU,Germany,2015,10.9,80.7
+DEU,Germany,2016,11,81
+DEU,Germany,2017,11.1,81.1
+DEU,Germany,2018,11.2,81
+DEU,Germany,2019,11.4,81.3
+DEU,Germany,2020,12.5,81.1
+DEU,Germany,2021,12.7,80.8
+DEU,Germany,2022,12.4,80.7
+DEU,Germany,2023,11.7,81.1
+GRC,Greece,2015,8.3,81.1
+GRC,Greece,2016,8.5,81.5
+GRC,Greece,2017,8.1,81.4
+GRC,Greece,2018,8.1,81.9
+GRC,Greece,2019,8.1,81.7
+GRC,Greece,2020,9.4,81.4
+GRC,Greece,2021,9,80.2
+GRC,Greece,2022,8.4,80.8
+GRC,Greece,2023,8.4,81.8
+HUN,Hungary,2015,6.9,75.7
+HUN,Hungary,2016,7,76.2
+HUN,Hungary,2017,6.7,76
+HUN,Hungary,2018,6.6,76.2
+HUN,Hungary,2019,6.2,76.5
+HUN,Hungary,2020,7.2,75.5
+HUN,Hungary,2021,7.3,74.1
+HUN,Hungary,2022,6.6,76
+HUN,Hungary,2023,6.4,76.7
+ISL,Iceland,2015,8.1,82.5
+ISL,Iceland,2016,8.2,82.2
+ISL,Iceland,2017,8.3,82.6
+ISL,Iceland,2018,8.4,82.9
+ISL,Iceland,2019,8.6,83.2
+ISL,Iceland,2020,9.6,83.1
+ISL,Iceland,2021,9.7,83.2
+ISL,Iceland,2022,9.1,82.1
+ISL,Iceland,2023,8.7,82.4
+IRL,Ireland,2015,7.1,81.5
+IRL,Ireland,2016,7.3,81.7
+IRL,Ireland,2017,6.9,82.2
+IRL,Ireland,2018,6.7,82.2
+IRL,Ireland,2019,6.6,82.8
+IRL,Ireland,2020,7,82.5
+IRL,Ireland,2021,6.4,82.3
+IRL,Ireland,2022,6,82.6
+IRL,Ireland,2023,6.6,82.9
+ISR,Israel,2015,7,82.2
+ISR,Israel,2016,7.1,82.5
+ISR,Israel,2017,7.2,82.7
+ISR,Israel,2018,7.2,82.9
+ISR,Israel,2019,7.2,82.9
+ISR,Israel,2020,7.7,82.7
+ISR,Israel,2021,7.8,82.6
+ISR,Israel,2022,7.1,82.8
+ISR,Israel,2023,7.1,83.8
+ITA,Italy,2015,8.8,82.7
+ITA,Italy,2016,8.7,83.4
+ITA,Italy,2017,8.7,83.1
+ITA,Italy,2018,8.7,83.4
+ITA,Italy,2019,8.6,83.6
+ITA,Italy,2020,9.6,82.3
+ITA,Italy,2021,9.3,82.7
+ITA,Italy,2022,8.9,82.8
+ITA,Italy,2023,8.4,83.5
+JPN,Japan,2015,10.8,83.9
+JPN,Japan,2016,10.7,84.1
+JPN,Japan,2017,10.7,84.2
+JPN,Japan,2018,10.7,84.3
+JPN,Japan,2019,11,84.4
+JPN,Japan,2020,11.5,84.6
+JPN,Japan,2021,12.1,84.5
+JPN,Japan,2022,12.3,84.1
+JPN,Japan,2023,10.7,84.1
+KOR,Korea,2015,6.5,82.1
+KOR,Korea,2016,6.6,82.4
+KOR,Korea,2017,6.8,82.7
+KOR,Korea,2018,7.1,82.7
+KOR,Korea,2019,7.7,83.3
+KOR,Korea,2020,8,83.5
+KOR,Korea,2021,8.3,83.6
+KOR,Korea,2022,8.8,82.7
+KOR,Korea,2023,8.5,83.5
+LVA,Latvia,2015,5.8,74.8
+LVA,Latvia,2016,6.4,74.9
+LVA,Latvia,2017,6.2,74.9
+LVA,Latvia,2018,6.4,75.1
+LVA,Latvia,2019,6.9,75.7
+LVA,Latvia,2020,7.5,75.5
+LVA,Latvia,2021,9.4,73.1
+LVA,Latvia,2022,8.1,74.5
+LVA,Latvia,2023,7.3,75.6
+LTU,Lithuania,2015,6.5,74.6
+LTU,Lithuania,2016,6.6,74.9
+LTU,Lithuania,2017,6.5,75.8
+LTU,Lithuania,2018,6.5,76
+LTU,Lithuania,2019,6.9,76.5
+LTU,Lithuania,2020,7.4,75.2
+LTU,Lithuania,2021,7.7,74.2
+LTU,Lithuania,2022,7.2,75.8
+LTU,Lithuania,2023,7.3,77.6
+LUX,Luxembourg,2015,5.1,82.4
+LUX,Luxembourg,2016,5.1,82.7
+LUX,Luxembourg,2017,5.1,82.1
+LUX,Luxembourg,2018,5.3,82.3
+LUX,Luxembourg,2019,5.5,82.7
+LUX,Luxembourg,2020,5.8,82.2
+LUX,Luxembourg,2021,5.6,82.7
+LUX,Luxembourg,2022,5.6,83
+LUX,Luxembourg,2023,5.7,83.4
+MEX,Mexico,2015,5.5,75.1
+MEX,Mexico,2016,5.4,74.8
+MEX,Mexico,2017,5.3,74.8
+MEX,Mexico,2018,5.2,74.9
+MEX,Mexico,2019,5.3,74.8
+MEX,Mexico,2020,6.1,68.9
+MEX,Mexico,2021,5.9,68.8
+MEX,Mexico,2022,5.7,75.2
+MEX,Mexico,2023,5.7,75.3
+NLD,Netherlands,2015,10.2,81.6
+NLD,Netherlands,2016,10.1,81.7
+NLD,Netherlands,2017,9.9,81.8
+NLD,Netherlands,2018,9.9,81.9
+NLD,Netherlands,2019,9.9,82.2
+NLD,Netherlands,2020,11,81.4
+NLD,Netherlands,2021,11.1,81.4
+NLD,Netherlands,2022,10,81.7
+NLD,Netherlands,2023,9.8,81.9
+NZL,New Zealand,2015,8.9,81.5
+NZL,New Zealand,2016,8.8,81.6
+NZL,New Zealand,2017,8.6,81.7
+NZL,New Zealand,2018,8.6,81.7
+NZL,New Zealand,2019,8.6,82.1
+NZL,New Zealand,2020,9.3,82.3
+NZL,New Zealand,2021,9.6,82.3
+NZL,New Zealand,2022,10.6,82
+NZL,New Zealand,2023,10.1,82
+NOR,Norway,2015,10.1,82.4
+NOR,Norway,2016,10.5,82.5
+NOR,Norway,2017,10.2,82.7
+NOR,Norway,2018,10,82.8
+NOR,Norway,2019,10.4,83
+NOR,Norway,2020,11.4,83.3
+NOR,Norway,2021,9.8,83.2
+NOR,Norway,2022,7.9,82.5
+NOR,Norway,2023,9.4,83.1
+POL,Poland,2015,6.4,77.5
+POL,Poland,2016,6.5,78
+POL,Poland,2017,6.5,77.8
+POL,Poland,2018,6.3,77.7
+POL,Poland,2019,6.4,78
+POL,Poland,2020,6.4,76.4
+POL,Poland,2021,6.4,75.4
+POL,Poland,2022,6.5,77.2
+POL,Poland,2023,7.1,78.4
+PRT,Portugal,2015,9.3,81.3
+PRT,Portugal,2016,9.4,81.3
+PRT,Portugal,2017,9.3,81.6
+PRT,Portugal,2018,9.4,81.5
+PRT,Portugal,2019,9.5,81.9
+PRT,Portugal,2020,10.5,81.5
+PRT,Portugal,2021,11.2,81.5
+PRT,Portugal,2022,10.5,81.8
+PRT,Portugal,2023,10,82.5
+SVK,Slovak Republic,2015,6.7,76.7
+SVK,Slovak Republic,2016,6.9,77.3
+SVK,Slovak Republic,2017,6.7,77.3
+SVK,Slovak Republic,2018,6.6,77.4
+SVK,Slovak Republic,2019,6.9,77.8
+SVK,Slovak Republic,2020,7.1,77
+SVK,Slovak Republic,2021,7.6,74.6
+SVK,Slovak Republic,2022,7.7,77
+SVK,Slovak Republic,2023,7.4,78.2
+SVN,Slovenia,2015,8.6,80.9
+SVN,Slovenia,2016,8.6,81.2
+SVN,Slovenia,2017,8.3,81.2
+SVN,Slovenia,2018,8.4,81.5
+SVN,Slovenia,2019,8.6,81.6
+SVN,Slovenia,2020,9.5,80.6
+SVN,Slovenia,2021,9.5,80.7
+SVN,Slovenia,2022,9.6,81.3
+SVN,Slovenia,2023,9.3,82
+ESP,Spain,2015,9.2,83
+ESP,Spain,2016,9,83.5
+ESP,Spain,2017,9,83.4
+ESP,Spain,2018,9.1,83.5
+ESP,Spain,2019,9.2,84
+ESP,Spain,2020,10.8,82.3
+ESP,Spain,2021,10.3,83.3
+ESP,Spain,2022,9.7,83.2
+ESP,Spain,2023,9.2,84
+SWE,Sweden,2015,10.9,82.2
+SWE,Sweden,2016,11,82.4
+SWE,Sweden,2017,11,82.5
+SWE,Sweden,2018,11.1,82.6
+SWE,Sweden,2019,11,83.2
+SWE,Sweden,2020,11.4,82.4
+SWE,Sweden,2021,11.3,83.1
+SWE,Sweden,2022,10.9,83.1
+SWE,Sweden,2023,11.3,83.4
+CHE,Switzerland,2015,11,83
+CHE,Switzerland,2016,11.2,83.7
+CHE,Switzerland,2017,11.4,83.7
+CHE,Switzerland,2018,11.2,83.8
+CHE,Switzerland,2019,11.4,84
+CHE,Switzerland,2020,12,83.1
+CHE,Switzerland,2021,12,83.9
+CHE,Switzerland,2022,11.6,83.7
+CHE,Switzerland,2023,11.7,84.3
+TUR,Turkiye,2015,4.1,78
+TUR,Turkiye,2016,4.3,78
+TUR,Turkiye,2017,4.2,78.3
+TUR,Turkiye,2018,4.1,78.6
+TUR,Turkiye,2019,4.4,78.3
+TUR,Turkiye,2020,4.6,77.7
+TUR,Turkiye,2021,4.6,77.5
+TUR,Turkiye,2022,3.7,77.3
+TUR,Turkiye,2023,4.3,0
+GBR,United Kingdom,2015,9.9,80.9
+GBR,United Kingdom,2016,9.9,81
+GBR,United Kingdom,2017,9.7,81.1
+GBR,United Kingdom,2018,9.8,81
+GBR,United Kingdom,2019,10,81.4
+GBR,United Kingdom,2020,12.1,80.3
+GBR,United Kingdom,2021,12.1,80.5
+GBR,United Kingdom,2022,11.1,80.9
+GBR,United Kingdom,2023,11,81
+USA,United States,2015,16.4,78.7
+USA,United States,2016,16.7,78.7
+USA,United States,2017,16.6,78.6
+USA,United States,2018,16.5,78.7
+USA,United States,2019,16.5,78.8
+USA,United States,2020,18.5,77
+USA,United States,2021,17.4,76.4
+USA,United States,2022,16.5,77.5
+USA,United States,2023,16.7,78.4
+ARG,Argentina,2015,10.2,76.6
+ARG,Argentina,2016,9.9,76.1
+ARG,Argentina,2017,10.3,76.5
+ARG,Argentina,2018,10.3,76.8
+ARG,Argentina,2019,10.1,76.8
+ARG,Argentina,2020,10.7,75.9
+ARG,Argentina,2021,11.1,73.9
+ARG,Argentina,2022,10.5,75.8
+ARG,Argentina,2023,10.4,77.4
+BRA,Brazil,2015,8.9,75.1
+BRA,Brazil,2016,9.2,75.1
+BRA,Brazil,2017,9.5,75.4
+BRA,Brazil,2018,9.5,75.6
+BRA,Brazil,2019,9.6,75.8
+BRA,Brazil,2020,9.6,74.5
+BRA,Brazil,2021,9.6,73
+BRA,Brazil,2022,9.4,74.9
+BRA,Brazil,2023,0,75.8
+BGR,Bulgaria,2015,7.4,74.7
+BGR,Bulgaria,2016,7.5,74.9
+BGR,Bulgaria,2017,7.5,74.8
+BGR,Bulgaria,2018,7.3,75
+BGR,Bulgaria,2019,7.1,75.1
+BGR,Bulgaria,2020,8.4,73.3
+BGR,Bulgaria,2021,8.6,71.2
+BGR,Bulgaria,2022,7.6,74.2
+BGR,Bulgaria,2023,7.9,75.8
+CHN,China,2015,4.9,77
+CHN,China,2016,4.9,77.2
+CHN,China,2017,5,77.2
+CHN,China,2018,5.1,77.7
+CHN,China,2019,5.3,77.9
+CHN,China,2020,5.5,78
+CHN,China,2021,5.3,78.1
+CHN,China,2022,5.2,78.2
+CHN,China,2023,0,78
+HRV,Croatia,2015,6.7,77.5
+HRV,Croatia,2016,6.7,78.2
+HRV,Croatia,2017,6.6,78
+HRV,Croatia,2018,6.7,78.2
+HRV,Croatia,2019,6.8,78.6
+HRV,Croatia,2020,7.7,77.6
+HRV,Croatia,2021,8.1,76.6
+HRV,Croatia,2022,7.3,77.7
+HRV,Croatia,2023,7.1,78.6
+IND,India,2015,3.6,69.3
+IND,India,2016,3.5,69.7
+IND,India,2017,2.9,70.1
+IND,India,2018,2.9,70.4
+IND,India,2019,3,70.7
+IND,India,2020,3.3,70.2
+IND,India,2021,3.3,67.3
+IND,India,2022,3.3,71.7
+IND,India,2023,0,72
+IDN,Indonesia,2015,2.9,69.5
+IDN,Indonesia,2016,3,69.7
+IDN,Indonesia,2017,2.9,70
+IDN,Indonesia,2018,2.9,70.1
+IDN,Indonesia,2019,2.9,70.3
+IDN,Indonesia,2020,3.4,68.8
+IDN,Indonesia,2021,3.7,67.5
+IDN,Indonesia,2022,2.7,70.9
+IDN,Indonesia,2023,2.7,71.1
+PER,Peru,2015,4.9,75.9
+PER,Peru,2016,4.9,76.1
+PER,Peru,2017,4.8,76.4
+PER,Peru,2018,5.1,76.6
+PER,Peru,2019,5.1,76.7
+PER,Peru,2020,6.3,76.9
+PER,Peru,2021,6.7,77
+PER,Peru,2022,6.1,77.1
+PER,Peru,2023,5.6,77.2
+ROU,Romania,2015,4.9,74.9
+ROU,Romania,2016,5.1,75.2
+ROU,Romania,2017,5.2,75.2
+ROU,Romania,2018,5.5,75.3
+ROU,Romania,2019,5.7,75.6
+ROU,Romania,2020,6.2,74.2
+ROU,Romania,2021,6.5,72.8
+ROU,Romania,2022,5.8,75.1
+ROU,Romania,2023,5.7,76.4
+ZAF,South Africa,2015,8.1,64.1
+ZAF,South Africa,2016,8.1,64.7
+ZAF,South Africa,2017,8,65.4
+ZAF,South Africa,2018,8.1,65.7
+ZAF,South Africa,2019,8.2,66.1
+ZAF,South Africa,2020,9,65.2
+ZAF,South Africa,2021,8.7,62
+ZAF,South Africa,2022,8.7,65.5
+ZAF,South Africa,2023,0,66.1
+Thailand,Thailand,2015,3.9,76.6
+Thailand,Thailand,2016,3.9,76.8
+Thailand,Thailand,2017,3.9,77
+Thailand,Thailand,2018,3.9,77.2
+Thailand,Thailand,2019,3.8,77.2
+Thailand,Thailand,2020,4.4,77.3
+Thailand,Thailand,2021,5.2,77.6
+Thailand,Thailand,2022,5.4,75.3
+Thailand,Thailand,2023,4.5,76.4
+UKR,Ukraine,2015,7.8,72.7
+UKR,Ukraine,2016,7.6,73.4
+UKR,Ukraine,2017,7.4,74
+UKR,Ukraine,2018,7.5,73.6
+UKR,Ukraine,2019,7.1,73.9
+UKR,Ukraine,2020,7.6,73.3
+UKR,Ukraine,2021,8.2,71.6
+UKR,Ukraine,2022,0,72.7
+UKR,Ukraine,2023,0,73.4
