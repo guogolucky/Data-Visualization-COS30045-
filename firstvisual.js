@@ -85,7 +85,7 @@ window.onload = function () {
     // Load  CSV Data and Geo Map
     Promise.all([
         d3.json("ne_110m_admin_0_countries.geojson"),
-        d3.csv("data.csv", d => ({
+        d3.csv("first visual data.csv", d => ({
             iso: d.iso,
             country: d.country,
             year: +d.year,
