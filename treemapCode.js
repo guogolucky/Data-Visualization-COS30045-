@@ -61,7 +61,7 @@ d3.csv("potentalYearsOfLifeLostTreeMapData.csv", function (d) {
             }
         }
 
-        // Calculate average PYLL (same logic as original)
+        
         var totalValue = 0;
         for (var i = 0; i < yearData.length; i++) {
             totalValue += yearData[i].value;
