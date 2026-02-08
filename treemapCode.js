@@ -52,7 +52,7 @@ d3.csv("potentalYearsOfLifeLostTreeMapData.csv", function (d) {
             .text("Potential Years of Life Lost (PYLL) by Country (" + year + ")");
 
         d3.select("#subtitle")
-            .text("Rectangle size = PYLL • Colour = PYLL");
+            .text("Rectangle size = PYLL | Colour = PYLL");
 
         var yearData = [];
         for (var i = 0; i < data.length; i++) {
