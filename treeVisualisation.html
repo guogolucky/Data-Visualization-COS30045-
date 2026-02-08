@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="Treemap visualisation" />
+    <meta name="keywords" content="HTML, CSS, D3" />
+    <meta name="author" content="James Stone, Guo Tong Tsen" />
+    <link rel="stylesheet" href="style.css">
+    <title>Potential Years of Life Lost by Country</title>
+
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="treemapCode.js" defer></script>
+    <script>
+        console.log("treemap JS loaded");
+        console.log("D3 version:", d3.version);
+    </script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+    
+        .tooltip {
+            position: absolute;
+            background: rgba(0, 0, 0, 0.85);
+            color: white;
+            padding: 8px 12px;
+            border-radius: 4px;
+            font-size: 12px;
+            pointer-events: none;
+            opacity: 0;
+        }
+    
+        text {
+            font-size: 11px;
+            fill: white;
+            pointer-events: none;
+        }
+    </style>
+</head>
+
+<body>
+    <h2 id="title"></h2>
+    <p id="subtitle"></p>
+
+    <svg id="treemap"></svg><br>
+
+    <svg id="legend"></svg>
+
+    <div id="controls">
+        <label>
+            Year:
+            <strong><span id="yearLabel"></span></strong>
+        </label>
+        <br>
+        <input type="range" id="yearSlider">
+    </div>
+
+    <div class="tooltip"></div>
+
+    <ul>
+        <li class="inline2">
+            <a href="index.html"><button class="btnControl">Return To Home Page</button></a>
+        </li>
+        <li class="inline2">
+            <a href="index.html"><button class="btnControl">Another Button</button></a>
+        </li>
+    </ul>
+
+    <footer style="color:grey; margin-top:20px;">
+        COS30045 (Data Visualisation)
+    </footer>
+
+</body>
+
+</html>
