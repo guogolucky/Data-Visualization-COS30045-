@@ -37,10 +37,57 @@
             fill: white;
             pointer-events: none;
         }
+        .title{
+            color: black;
+        }
+
+        nav {
+    background-color: #2c3e50;
+    padding: 10px 20px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 5px;
+}
+
+nav h2 {
+    margin: 0;
+    font-size: 20px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 4px;
+    transition: background-color 0.2s;
+}
+
+nav ul li a:hover {
+    background-color: lightblue;
+}
     </style>
 </head>
 
 <body>
+
+    <nav>
+        <h2><i>Health Expenditure</i></h2>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="firstvisual.html">Main</a></li>
+        </ul>
+    </nav>
     
     <h2 id="title"></h2>
     <p id="subtitle"></p>
@@ -61,12 +108,9 @@
     <div class="tooltip"></div>
 
     <ul>
-        <li class="inline2">
+        <li>
             <a href="index.html"><button class="btnControl">Return To Home Page</button></a>
-        </li>
-        <li class="inline2">
-            <a href="index.html"><button class="btnControl">Another Button</button></a>
-        </li>
+        </li>        
     </ul>
 
     <footer style="color:grey; margin-top:20px;">
